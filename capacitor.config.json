@@ -1,0 +1,16 @@
+{
+  "appId": "com.attendance.app",
+  "appName": "Wisdom-Beta v1.0",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "out",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "androidScheme": "https"
+  }
+}
